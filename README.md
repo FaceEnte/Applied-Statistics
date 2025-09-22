@@ -1,0 +1,50 @@
+# Applied Statistics
+This repository contains my Jupyter Notebook collection for the Applied Statistics course.
+
+## Topics
+- Introduction to Statistical Terminology
+  - Population and Sample
+  - Link to Probability Theory
+  - Types of Variables
+- Descriptive Statistics
+  - Description of Categorical Variables
+    - Bar Chart
+  - Description of Numerical Variables Using Statistical Measures
+    - Measures of (Central) Tendency
+    - Measures of Variability
+  - Graphical Description of Numerical Variables
+    - Histogram
+    - Boxplot
+  - Descriptive Methods for Bivariate Data
+- The Central Limit Theorem
+- Confidence Intervals
+  - Confidence Interval for a Mean
+  - Confidence Interval for a Proportion or Probability
+  - The t-Distribution and a Confidence Interval for the Mean of a Small Sample
+- Hypothesis Tests
+  - Hypothesis Tests for the Mean of One Sample
+    - One-Sample z-Test
+    - One-Sample t-Test
+    - Sign Test and Wilcoxon Signed-Rank Test
+    - One- and Two-sided Tests, Rejection Ranges
+    - Type I and Type II Error
+    - Relationship Between Hypothesis Test and Confidence Interval
+  - Hypothesis Test for a Proportion or Probability
+    - The Binomial Test
+  - Hypothesis Tests for the Means of Two Samples
+    - The t-Test for Two Paired Samples
+    - The t-Test for Two Independent Samples
+    - Wilcoxon Rank-Sum Test for Two Independent Samples
+  - Tests for Association: Correlation and Chi-Square
+    - Correlation Tests
+    - Chi-Square Test for Independence
+  - Which Test to Use When?
+- Linear Regression Models
+  - Simple Linear Regression
+    - Connection to t-Test
+  - Multiple Linear Regression
+    - Predictions
+- Study Planning
+  - Defining the research question
+  - Bias and confounding factors
+  - Sample size considerations
